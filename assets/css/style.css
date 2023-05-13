@@ -1,0 +1,17 @@
+#logodigimon {
+    max-height: 40px;
+    max-width: none;
+}
+
+.container {
+    width: 40%;
+    margin-top: 2%;
+    border: 1px solid black;
+    background-color: white;
+}
+
+body {
+    background-image: url(../img/wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
